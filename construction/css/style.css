@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+/*contenu*/
+.cadre
+{
+    box-shadow: 0 0 10px red;
+    border: 2px solid #000;
+  
+    width: 100%;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.miniature
+{   
+    height: 70px;
+    border: 1px solid #000;  
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.opte
+{
+    border-radius: 20px;
+}
+.divider 
+{
+    margin-bottom: 50px;
+}
